@@ -18,3 +18,8 @@ Thanks for giving me the book, Nakul!
 ```
 gradle build
 ```
+
+Run a particular test:
+```
+gradle cleanTest test --tests 'GetOpt*'
+```

@@ -3,6 +3,7 @@
 /littleScala/dist/
 ivy/
 bin/
+obj/
 build/
 dist/
 **/nbproject/private/
